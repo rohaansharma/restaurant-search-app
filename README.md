@@ -7,8 +7,8 @@ It searches for restaurants in Los Angeles and groups maximum of 50 restaurants 
 2. Bit Pricier
 3. Big Spender
 
-![Screenshot 1](screenshot/ss1.png?raw=true "Title")
+![Screenshot 1](screenshot/ss1.png =300*300)
 
-![Screenshot 2](screenshot/ss2.png?raw=true "Title")
+![Screenshot 2](screenshot/ss2.png =300*300
 
-![Screenshot 2](screenshot/ss3.png?raw=true "Title")
+![Screenshot 2](screenshot/ss3.png =300*300)
