@@ -12,7 +12,7 @@ It searches for restaurants in Los Angeles and groups maximum of 50 restaurants 
 
 <img src="screenshot/ss2.png" height="500" width="300">
 
-<img src="screenshot/ss2.png" height="500" width="300">
+<img src="screenshot/ss3.png" height="500" width="300">
 
 
 
